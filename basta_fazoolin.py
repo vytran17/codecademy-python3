@@ -1,3 +1,5 @@
+"""Restaurant franchise business"""
+
 class Menu:
   def __init__(self, nameParam, items, start_time, end_time):
     self.name = nameParam
